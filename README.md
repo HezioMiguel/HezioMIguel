@@ -11,7 +11,7 @@ Sou um desenvolvedor apaixonado por arquitetura de sistemas e código limpo, foc
 - 💻 Desenvolvendo projetos práticos com foco em Backend .
 - 🌱 Atualmente aprendendo mais sobre **Arquitetura de APIs, Cloud e Testes Automatizados**.
 - 🎯 Buscando minha primeira oportunidade (Estágio / Júnior) em Desenvolvimento de Software.
-- 📍 Baseado em Lima Duarte / Juiz de Fora - MG (Aberto a oportunidades Remotas e Híbridas).
+- 📍 Baseado em Lima Duarte / Juiz de Fora - MG (Aberto a oportunidades Remotas e Presenciais).
 
 ---
 
