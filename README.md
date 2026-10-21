@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Desenvolvedor de Software | Eng. de Software
 
-Sou um desenvolvedor apaixonado por arquitetura de sistemas e código limpo, focado em construir soluções eficientes e escaláveis. Com uma base sólida consolidada através da minha graduação em ADS, atualmente estou elevando o nível das minhas entregas mergulhando em arquitetura Cloud, Microsserviços e DevSecOps. 
+Sou um desenvolvedor apaixonado por arquitetura de sistemas e código limpo, focado em construir soluções eficientes e escaláveis. Com uma base sólida consolidada através da minha graduação em ADS, atualmente estou estudando Pós-graduação em Engenharia de Software na PUC Minas
 
 ### 🚀 Sobre mim
 
